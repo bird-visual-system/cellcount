@@ -1,0 +1,12 @@
+# folders:
+**/__pycache__
+**/data
+
+doc
+pickled_data
+
+# files:
+.ipynb_checkpoints/
+.vscode/
+**/*.hdf5
+**/*.png

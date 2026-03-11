@@ -1,0 +1,10 @@
+# for reading excel files:
+openpyxl==3.0.7
+# for reading roi from ImageJ:
+read-roi==1.6.0
+# for writing cellmarks as roisets:
+roifile==2025.5.10
+# for geospatial processing:
+#Shapely==1.7.1
+#Shapely==1.8a3 # version of Shapely which have validation.make_valid function:
+Shapely==2.0.1
