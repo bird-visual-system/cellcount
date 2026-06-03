@@ -6,6 +6,7 @@ doc
 pickled_data
 
 # files:
+Buildrun.bash
 .ipynb_checkpoints/
 .vscode/
 **/*.hdf5
